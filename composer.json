@@ -1,0 +1,22 @@
+{
+  "name": "newageerp/sf-daysoff",
+  "type": "symfony-bundle",
+  "autoload": {
+    "psr-4": {
+      "Newageerp\\DaysOff\\": "src/"
+    }
+  },
+  "require": {
+
+  },
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Arturas Jegorenkovas",
+      "email": "info@newageerp.com"
+    }
+  ],
+  "require-dev": {
+    "phpunit/phpunit": "^9"
+  }
+}

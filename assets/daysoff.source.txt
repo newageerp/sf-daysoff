@@ -1,0 +1,296 @@
+2010-01-01 - Naujieji metai
+2010-02-16 - Užgavėnės
+2010-02-16 - Lietuvos Valstybės atkūrimo diena
+2010-03-11 - Nepriklausomybės atkūrimo diena
+2010-04-04 - Velykos
+2010-04-05 - Velykų antroji diena
+2010-05-01 - Tarptautinė darbo diena
+2010-05-02 - Motinos diena
+2010-06-06 - Tėvo diena
+2010-06-24 - Joninės
+2010-07-06 - Karaliaus Mindaugo karūnavimo diena
+2010-08-15 - Žolinė
+2010-11-01 - Visų šventųjų diena
+2010-12-24 - Šv. Kūčios
+2010-12-25 - Šv. Kalėdos
+2010-12-26 - Šv. Kalėdų antroji diena
+2011-01-01 - Naujieji metai
+2011-02-16 - Lietuvos Valstybės atkūrimo diena
+2011-03-08 - Užgavėnės
+2011-03-11 - Nepriklausomybės atkūrimo diena
+2011-04-24 - Velykos
+2011-04-25 - Velykų antroji diena
+2011-05-01 - Motinos diena
+2011-05-01 - Tarptautinė darbo diena
+2011-06-05 - Tėvo diena
+2011-06-24 - Joninės
+2011-07-06 - Karaliaus Mindaugo karūnavimo diena
+2011-08-15 - Žolinė
+2011-11-01 - Visų šventųjų diena
+2011-12-24 - Šv. Kūčios
+2011-12-25 - Šv. Kalėdos
+2011-12-26 - Šv. Kalėdų antroji diena
+2012-01-01 - Naujieji metai
+2012-02-16 - Lietuvos Valstybės atkūrimo diena
+2012-02-21 - Užgavėnės
+2012-03-11 - Nepriklausomybės atkūrimo diena
+2012-04-08 - Velykos
+2012-04-09 - Velykų antroji diena
+2012-05-01 - Tarptautinė darbo diena
+2012-05-06 - Motinos diena
+2012-06-03 - Tėvo diena
+2012-06-24 - Joninės
+2012-07-06 - Karaliaus Mindaugo karūnavimo diena
+2012-08-15 - Žolinė
+2012-11-01 - Visų šventųjų diena
+2012-12-24 - Šv. Kūčios
+2012-12-25 - Šv. Kalėdos
+2012-12-26 - Šv. Kalėdų antroji diena
+2013-01-01 - Naujieji metai
+2013-02-12 - Užgavėnės
+2013-02-16 - Lietuvos Valstybės atkūrimo diena
+2013-03-11 - Nepriklausomybės atkūrimo diena
+2013-03-31 - Velykos
+2013-04-01 - Velykų antroji diena
+2013-05-01 - Tarptautinė darbo diena
+2013-05-05 - Motinos diena
+2013-06-02 - Tėvo diena
+2013-06-24 - Joninės
+2013-07-06 - Karaliaus Mindaugo karūnavimo diena
+2013-08-15 - Žolinė
+2013-11-01 - Visų šventųjų diena
+2013-12-24 - Šv. Kūčios
+2013-12-25 - Šv. Kalėdos
+2013-12-26 - Šv. Kalėdų antroji diena
+2014-01-01 - Naujieji metai
+2014-02-16 - Lietuvos Valstybės atkūrimo diena
+2014-03-04 - Užgavėnės
+2014-03-11 - Nepriklausomybės atkūrimo diena
+2014-04-20 - Velykos
+2014-04-21 - Velykų antroji diena
+2014-05-01 - Tarptautinė darbo diena
+2014-05-04 - Motinos diena
+2014-06-01 - Tėvo diena
+2014-06-24 - Joninės
+2014-07-06 - Karaliaus Mindaugo karūnavimo diena
+2014-08-15 - Žolinė
+2014-11-01 - Visų šventųjų diena
+2014-12-24 - Šv. Kūčios
+2014-12-25 - Šv. Kalėdos
+2014-12-26 - Šv. Kalėdų antroji diena
+2015-01-01 - Naujieji metai
+2015-02-16 - Lietuvos Valstybės atkūrimo diena
+2015-02-17 - Užgavėnės
+2015-03-11 - Nepriklausomybės atkūrimo diena
+2015-04-05 - Velykos
+2015-04-06 - Velykų antroji diena
+2015-05-01 - Tarptautinė darbo diena
+2015-05-03 - Motinos diena
+2015-06-07 - Tėvo diena
+2015-06-24 - Joninės
+2015-07-06 - Karaliaus Mindaugo karūnavimo diena
+2015-08-15 - Žolinė
+2015-11-01 - Visų šventųjų diena
+2015-12-24 - Šv. Kūčios
+2015-12-25 - Šv. Kalėdos
+2015-12-26 - Šv. Kalėdų antroji diena
+2016-01-01 - Naujieji metai
+2016-02-09 - Užgavėnės
+2016-02-16 - Lietuvos Valstybės atkūrimo diena
+2016-03-11 - Nepriklausomybės atkūrimo diena
+2016-03-27 - Velykos
+2016-03-28 - Velykų antroji diena
+2016-05-01 - Motinos diena
+2016-05-01 - Tarptautinė darbo diena
+2016-06-05 - Tėvo diena
+2016-06-24 - Joninės
+2016-07-06 - Karaliaus Mindaugo karūnavimo diena
+2016-08-15 - Žolinė
+2016-11-01 - Visų šventųjų diena
+2016-12-24 - Šv. Kūčios
+2016-12-25 - Šv. Kalėdos
+2016-12-26 - Šv. Kalėdų antroji diena
+2017-01-01 - Naujieji metai
+2017-02-16 - Lietuvos Valstybės atkūrimo diena
+2017-02-28 - Užgavėnės
+2017-03-11 - Nepriklausomybės atkūrimo diena
+2017-04-16 - Velykos
+2017-04-17 - Velykų antroji diena
+2017-05-01 - Tarptautinė darbo diena
+2017-05-07 - Motinos diena
+2017-06-04 - Tėvo diena
+2017-06-24 - Joninės
+2017-07-06 - Karaliaus Mindaugo karūnavimo diena
+2017-08-15 - Žolinė
+2017-11-01 - Visų šventųjų diena
+2017-12-24 - Šv. Kūčios
+2017-12-25 - Šv. Kalėdos
+2017-12-26 - Šv. Kalėdų antroji diena
+2018-01-01 - Naujieji metai
+2018-02-13 - Užgavėnės
+2018-02-16 - Lietuvos Valstybės atkūrimo diena
+2018-03-11 - Nepriklausomybės atkūrimo diena
+2018-04-01 - Velykos
+2018-04-02 - Velykų antroji diena
+2018-05-01 - Tarptautinė darbo diena
+2018-05-06 - Motinos diena
+2018-06-03 - Tėvo diena
+2018-06-24 - Joninės
+2018-07-06 - Karaliaus Mindaugo karūnavimo diena
+2018-08-15 - Žolinė
+2018-11-01 - Visų šventųjų diena
+2018-12-24 - Šv. Kūčios
+2018-12-25 - Šv. Kalėdos
+2018-12-26 - Šv. Kalėdų antroji diena
+2019-01-01 - Naujieji metai
+2019-02-16 - Lietuvos Valstybės atkūrimo diena
+2019-03-05 - Užgavėnės
+2019-03-11 - Nepriklausomybės atkūrimo diena
+2019-04-21 - Velykos
+2019-04-22 - Velykų antroji diena
+2019-05-01 - Tarptautinė darbo diena
+2019-05-05 - Motinos diena
+2019-06-02 - Tėvo diena
+2019-06-24 - Joninės
+2019-07-06 - Karaliaus Mindaugo karūnavimo diena
+2019-08-15 - Žolinė
+2019-11-01 - Visų šventųjų diena
+2019-12-24 - Šv. Kūčios
+2019-12-25 - Šv. Kalėdos
+2019-12-26 - Šv. Kalėdų antroji diena
+2020-01-01 - Naujieji metai
+2020-02-16 - Lietuvos Valstybės atkūrimo diena
+2020-02-25 - Užgavėnės
+2020-03-11 - Nepriklausomybės atkūrimo diena
+2020-04-12 - Velykos
+2020-04-13 - Velykų antroji diena
+2020-05-01 - Tarptautinė darbo diena
+2020-05-03 - Motinos diena
+2020-06-07 - Tėvo diena
+2020-06-24 - Joninės
+2020-07-06 - Karaliaus Mindaugo karūnavimo diena
+2020-08-15 - Žolinė
+2020-11-01 - Visų šventųjų diena
+2020-11-02 - Vėlinės
+2020-12-24 - Šv. Kūčios
+2020-12-25 - Šv. Kalėdos
+2020-12-26 - Šv. Kalėdų antroji diena
+2021-01-01 - Naujieji metai
+2021-02-16 - Lietuvos Valstybės atkūrimo diena
+2021-02-16 - Užgavėnės
+2021-03-11 - Nepriklausomybės atkūrimo diena
+2021-04-04 - Velykos
+2021-04-05 - Velykų antroji diena
+2021-05-01 - Tarptautinė darbo diena
+2021-05-02 - Motinos diena
+2021-06-06 - Tėvo diena
+2021-06-24 - Joninės
+2021-07-06 - Karaliaus Mindaugo karūnavimo diena
+2021-08-15 - Žolinė
+2021-11-01 - Visų šventųjų diena
+2021-11-02 - Vėlinės
+2021-12-24 - Šv. Kūčios
+2021-12-25 - Šv. Kalėdos
+2021-12-26 - Šv. Kalėdų antroji diena
+2022-01-01 - Naujieji metai
+2022-02-16 - Lietuvos Valstybės atkūrimo diena
+2022-03-01 - Užgavėnės
+2022-03-11 - Nepriklausomybės atkūrimo diena
+2022-04-17 - Velykos
+2022-04-18 - Velykų antroji diena
+2022-05-01 - Tarptautinė darbo diena
+2022-05-01 - Motinos diena
+2022-06-05 - Tėvo diena
+2022-06-24 - Joninės
+2022-07-06 - Karaliaus Mindaugo karūnavimo diena
+2022-08-15 - Žolinė
+2022-11-01 - Visų šventųjų diena
+2022-11-02 - Vėlinės
+2022-12-24 - Šv. Kūčios
+2022-12-25 - Šv. Kalėdos
+2022-12-26 - Šv. Kalėdų antroji diena
+2023-01-01 - Naujieji metai
+2023-02-16 - Lietuvos Valstybės atkūrimo diena
+2023-02-21 - Užgavėnės
+2023-03-11 - Nepriklausomybės atkūrimo diena
+2023-04-09 - Velykos
+2023-04-10 - Velykų antroji diena
+2023-05-01 - Tarptautinė darbo diena
+2023-05-07 - Motinos diena
+2023-06-04 - Tėvo diena
+2023-06-24 - Joninės
+2023-07-06 - Karaliaus Mindaugo karūnavimo diena
+2023-08-15 - Žolinė
+2023-11-01 - Visų šventųjų diena
+2023-11-02 - Vėlinės
+2023-12-24 - Šv. Kūčios
+2023-12-25 - Šv. Kalėdos
+2023-12-26 - Šv. Kalėdų antroji diena
+2024-01-01 - Naujieji metai
+2024-02-13 - Užgavėnės
+2024-02-16 - Lietuvos Valstybės atkūrimo diena
+2024-03-11 - Nepriklausomybės atkūrimo diena
+2024-03-31 - Velykos
+2024-04-01 - Velykų antroji diena
+2024-05-01 - Tarptautinė darbo diena
+2024-05-05 - Motinos diena
+2024-06-02 - Tėvo diena
+2024-06-24 - Joninės
+2024-07-06 - Karaliaus Mindaugo karūnavimo diena
+2024-08-15 - Žolinė
+2024-11-01 - Visų šventųjų diena
+2024-11-02 - Vėlinės
+2024-12-24 - Šv. Kūčios
+2024-12-25 - Šv. Kalėdos
+2024-12-26 - Šv. Kalėdų antroji diena
+2025-01-01 - Naujieji metai
+2025-02-16 - Lietuvos Valstybės atkūrimo diena
+2025-03-04 - Užgavėnės
+2025-03-11 - Nepriklausomybės atkūrimo diena
+2025-04-20 - Velykos
+2025-04-21 - Velykų antroji diena
+2025-05-01 - Tarptautinė darbo diena
+2025-05-04 - Motinos diena
+2025-06-01 - Tėvo diena
+2025-06-24 - Joninės
+2025-07-06 - Karaliaus Mindaugo karūnavimo diena
+2025-08-15 - Žolinė
+2025-11-01 - Visų šventųjų diena
+2025-11-02 - Vėlinės
+2025-12-24 - Šv. Kūčios
+2025-12-25 - Šv. Kalėdos
+2025-12-26 - Šv. Kalėdų antroji diena
+2026-01-01 - Naujieji metai
+2026-02-16 - Lietuvos Valstybės atkūrimo diena
+2026-02-17 - Užgavėnės
+2026-03-11 - Nepriklausomybės atkūrimo diena
+2026-04-05 - Velykos
+2026-04-06 - Velykų antroji diena
+2026-05-01 - Tarptautinė darbo diena
+2026-05-03 - Motinos diena
+2026-06-07 - Tėvo diena
+2026-06-24 - Joninės
+2026-07-06 - Karaliaus Mindaugo karūnavimo diena
+2026-08-15 - Žolinė
+2026-11-01 - Visų šventųjų diena
+2026-11-02 - Vėlinės
+2026-12-24 - Šv. Kūčios
+2026-12-25 - Šv. Kalėdos
+2026-12-26 - Šv. Kalėdų antroji diena
+2027-01-01 - Naujieji metai
+2027-02-09 - Užgavėnės
+2027-02-16 - Lietuvos Valstybės atkūrimo diena
+2027-03-11 - Nepriklausomybės atkūrimo diena
+2027-03-28 - Velykos
+2027-03-29 - Velykų antroji diena
+2027-05-01 - Tarptautinė darbo diena
+2027-05-02 - Motinos diena
+2027-06-06 - Tėvo diena
+2027-06-24 - Joninės
+2027-07-06 - Karaliaus Mindaugo karūnavimo diena
+2027-08-15 - Žolinė
+2027-11-01 - Visų šventųjų diena
+2027-11-02 - Vėlinės
+2027-12-24 - Šv. Kūčios
+2027-12-25 - Šv. Kalėdos
+2027-12-26 - Šv. Kalėdų antroji diena
