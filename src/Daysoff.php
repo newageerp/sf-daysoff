@@ -46,6 +46,18 @@ class Daysoff
         return !$this->isDayOff($date);
     }
 
+    public function nextOrCurrentWorkingDay(DateTime $date): DateTime
+    {
+        $d = clone $date;
+
+        $isWorkingDay = $this->isWorkingDay($d);
+        while (!$isWorkingDay) {
+            $d->add(new \DateInterval('P1D'));
+            $isWorkingDay = $this->isWorkingDay($d);
+        }
+        return $d;
+    }
+
     public function nextWorkingDay(DateTime $date): DateTime
     {
         $d = clone $date;
@@ -63,6 +75,18 @@ class Daysoff
         $d = clone $date;
 
         $isWorkingDay = false;
+        while (!$isWorkingDay) {
+            $d->sub(new \DateInterval('P1D'));
+            $isWorkingDay = $this->isWorkingDay($d);
+        }
+        return $d;
+    }
+
+    public function prevOrCurrentWorkingDay(DateTime $date): DateTime
+    {
+        $d = clone $date;
+
+        $isWorkingDay = $this->isWorkingDay($d);
         while (!$isWorkingDay) {
             $d->sub(new \DateInterval('P1D'));
             $isWorkingDay = $this->isWorkingDay($d);
